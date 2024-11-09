@@ -4,7 +4,7 @@ A collection of code implementations for things that interest me.
 
 ## Contents
 
-### 1. Possible Triangles
+## 1. Possible Triangles
 
 How many different triangles can exist if we only consider integer angles (in degrees)?
 
@@ -70,6 +70,8 @@ This example shows that it took the program (monkey) 4 attempts to generate the 
 
 This program is a simplified simulation. It doesn't account for factors like real-world keyboards or the monkey's typing speed. It serves as a fun demonstration of random chance and the vast number of attempts it could take to achieve a specific outcome.
 
+## 3. Get domain
+This code grabs domain from urls using regular expression. Nothing to add much.
 
 ## Usage
 
